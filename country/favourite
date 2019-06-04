@@ -2,62 +2,32 @@
   {
     "id": "1",
     "name": "Uzbekistan",
-    "flag": {
-      "x1": "http://data-sample.github.io/pg/flags/x1/flag_uz.png",
-      "x1_5": "http://data-sample.github.io/pg/flags/x1_5/flag_uz.png",
-      "x2": "http://data-sample.github.io/pg/flags/x2/flag_uz.png",
-      "x3": "http://data-sample.github.io/pg/flags/x3/flag_uz.png"
-    }
+    "flag": "http://data-sample.github.io/pg/flags/flag_uz.png"
   },
   {
     "id": "2",
     "name": "Russia",
-    "flag": {
-      "x1": "http://data-sample.github.io/pg/flags/x1/flag_ru.png",
-      "x1_5": "http://data-sample.github.io/pg/flags/x1_5/flag_ru.png",
-      "x2": "http://data-sample.github.io/pg/flags/x2/flag_ru.png",
-      "x3": "http://data-sample.github.io/pg/flags/x3/flag_ru.png"
-    },
+    "flag": "http://data-sample.github.io/pg/flags/flag_ru.png",
     "isDirectPayment": true
   },
   {
     "id": "3",
     "name": "Kazakhstan",
-    "flag": {
-      "x1": "http://data-sample.github.io/pg/flags/x1/flag_kz.png",
-      "x1_5": "http://data-sample.github.io/pg/flags/x1_5/flag_kz.png",
-      "x2": "http://data-sample.github.io/pg/flags/x2/flag_kz.png",
-      "x3": "http://data-sample.github.io/pg/flags/x3/flag_kz.png"
-    }
+    "flag": "http://data-sample.github.io/pg/flags/flag_kz.png"
   },
   {
     "id": "4",
     "name": "Tajikistan",
-    "flag": {
-      "x1": "http://data-sample.github.io/pg/flags/x1/flag_tj.png",
-      "x1_5": "http://data-sample.github.io/pg/flags/x1_5/flag_tj.png",
-      "x2": "http://data-sample.github.io/pg/flags/x2/flag_tj.png",
-      "x3": "http://data-sample.github.io/pg/flags/x3/flag_tj.png"
-    }
+    "flag": "http://data-sample.github.io/pg/flags/flag_tj.png"
   },
   {
     "id": "5",
     "name": "Kyrgyzstan",
-    "flag": {
-      "x1": "http://data-sample.github.io/pg/flags/x1/flag_kg.png",
-      "x1_5": "http://data-sample.github.io/pg/flags/x1_5/flag_kg.png",
-      "x2": "http://data-sample.github.io/pg/flags/x2/flag_kg.png",
-      "x3": "http://data-sample.github.io/pg/flags/x3/flag_kg.png"
-    }
+    "flag": "http://data-sample.github.io/pg/flags/flag_kg.png"
   },
   {
     "id": "7",
     "name": "Armenia",
-    "flag": {
-      "x1": "http://data-sample.github.io/pg/flags/x1/flag_am.png",
-      "x1_5": "http://data-sample.github.io/pg/flags/x1_5/flag_am.png",
-      "x2": "http://data-sample.github.io/pg/flags/x2/flag_am.png",
-      "x3": "http://data-sample.github.io/pg/flags/x3/flag_am.png"
-    }
+    "flag": "http://data-sample.github.io/pg/flags/flag_am.png"
   }
 ]
