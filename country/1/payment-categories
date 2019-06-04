@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "providers": [
+      {
+        "id": 1,
+        "logo": "https://admin.paygram.io/api/download/000001729.png",
+        "name": "UMS"
+      },
+      {
+        "id": 88,
+        "logo": "https://admin.paygram.io/api/download/000001730.png",
+        "name": "UCell"
+      },
+      {
+        "id": 21,
+        "logo": "https://admin.paygram.io/api/download/000001731.png",
+        "name": "Perfectum"
+      },
+      {
+        "id": 243,
+        "logo": "https://admin.paygram.io/api/download/000001732.png",
+        "name": "UzMobile"
+      },
+      {
+        "id": 339,
+        "logo": "https://admin.paygram.io/api/download/000001733.png",
+        "name": "Beeline"
+      }
+    ],
+    "name": "Сотовые операторы"
+  },
+  {
+    "id": 8,
+    "providers": [
+      {
+        "id": 109,
+        "logo": "https://admin.paygram.io/api/download/000001734.png",
+        "name": "Sarkor-Telecom"
+      },
+      {
+        "id": 183,
+        "logo": "https://admin.paygram.io/api/download/000001736.png",
+        "name": "Evo"
+      },
+      {
+        "id": 277,
+        "logo": "https://admin.paygram.io/api/download/000001737.png",
+        "name": "Sharq Telekom"
+      },
+      {
+        "id": 278,
+        "logo": "https://admin.paygram.io/api/download/000001738.png",
+        "name": "Uzonline"
+      },
+      {
+        "id": 351,
+        "logo": "https://admin.paygram.io/api/download/000001739.png",
+        "name": "Nano Telecom"
+      },
+      {
+        "id": 373,
+        "logo": "https://admin.paygram.io/api/download/000001740.png",
+        "name": "TPS"
+      },
+      {
+        "id": 384,
+        "logo": "https://admin.paygram.io/api/download/000001741.png",
+        "name": "Comnet"
+      },
+      {
+        "id": 10,
+        "logo": "https://admin.paygram.io/api/download/000001735.png",
+        "name": "NETCO"
+      },
+      {
+        "id": 40,
+        "logo": "https://admin.paygram.io/api/download/000001745.png",
+        "name": "ISTV Интернет"
+      }
+    ],
+    "name": "Интернет"
+  },
+  {
+    "id": 12,
+    "providers": [
+      {
+        "id": 99,
+        "logo": "https://admin.paygram.io/api/download/000001746.png",
+        "name": "i-TV"
+      },
+      {
+        "id": 150,
+        "logo": "https://admin.paygram.io/api/download/000001748.png",
+        "name": "UzDigitalTV"
+      },
+      {
+        "id": 250,
+        "logo": "https://admin.paygram.io/api/download/000001742.png",
+        "name": "Allmovies.uz"
+      },
+      {
+        "id": 409,
+        "logo": "https://admin.paygram.io/api/download/000001747.png",
+        "name": "Mediabay.uz"
+      },
+      {
+        "id": 419,
+        "logo": "https://admin.paygram.io/api/download/000001743.png",
+        "name": "Allplay.uz"
+      },
+      {
+        "id": 192,
+        "logo": "https://admin.paygram.io/api/download/000001745.png",
+        "name": "ISTV Телевидение"
+      }
+    ],
+    "name": "Телевидение"
+  },
+  {
+    "id": 3,
+    "providers": [
+      {
+        "id": 75,
+        "logo": "https://admin.paygram.io/api/download/000001749.png",
+        "name": "e-hilolnashr.uz"
+      }
+    ],
+    "name": "Услуги"
+  },
+  {
+    "id": 26,
+    "providers": [
+      {
+        "id": 366,
+        "logo": "https://admin.paygram.io/api/download/000001750.png",
+        "name": "Меҳрли Қўллар"
+      }
+    ],
+    "name": "Фонды"
+  }
+]
