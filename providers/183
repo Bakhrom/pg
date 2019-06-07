@@ -1,0 +1,110 @@
+{
+  "id": 183,
+  "name": "Evo",
+  "services": [
+    {
+      "id": 861,
+      "name": "LTE",
+      "amountCharge": null,
+      "amountChargeMin": 1000,
+      "amountChargeMax": 500000,
+      "amountWithdraw": null,
+      "amountWithdrawMin": 10,
+      "amountWithdrawMax": 5000,
+      "type": "PAYMENT",
+      "rate": 100,
+      "percentBonus": 0.5,
+      "amountField": "amount",
+      "fields": [
+        {
+          "id": 1640,
+          "label": "ID пользователя",
+          "name": "customer_id",
+          "type": "STRING",
+          "value": null,
+          "format": null,
+          "hidden": false,
+          "prefixesJson": null,
+          "validateRules": [
+            {
+              "rule": "required",
+              "message": "Это поле обязательно к заполнению.",
+              "required": "true"
+            }
+          ],
+          "options": []
+        },
+        {
+          "id": 1641,
+          "label": "Тел. для SMS(998)",
+          "name": "telefon",
+          "type": "STRING",
+          "value": null,
+          "format": null,
+          "hidden": true,
+          "prefixesJson": null,
+          "validateRules": [
+            {
+              "rule": "required",
+              "message": "Это поле обязательно к заполнению.",
+              "required": "false"
+            }
+          ],
+          "options": []
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "name": "WiMAX",
+      "amountCharge": null,
+      "amountChargeMin": 1000,
+      "amountChargeMax": 500000,
+      "amountWithdraw": null,
+      "amountWithdrawMin": 10,
+      "amountWithdrawMax": 5000,
+      "type": "PAYMENT",
+      "rate": 100,
+      "percentBonus": 0.5,
+      "amountField": "amount",
+      "fields": [
+        {
+          "id": 498,
+          "label": "Лицевой счёт",
+          "name": "customer_id",
+          "type": "STRING",
+          "value": null,
+          "format": null,
+          "hidden": false,
+          "prefixesJson": null,
+          "validateRules": [
+            {
+              "rule": "required",
+              "message": "Это поле обязательно к заполнению.",
+              "required": "true"
+            }
+          ],
+          "options": []
+        },
+        {
+          "id": 499,
+          "label": "Тел. для SMS(998)",
+          "name": "telefon",
+          "type": "STRING",
+          "value": null,
+          "format": null,
+          "hidden": true,
+          "prefixesJson": null,
+          "validateRules": [
+            {
+              "rule": "required",
+              "message": "Это поле обязательно к заполнению.",
+              "required": "false"
+            }
+          ],
+          "options": []
+        }
+      ]
+    }
+  ]
+}

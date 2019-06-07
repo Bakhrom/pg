@@ -1,0 +1,50 @@
+{
+  "id": 1,
+  "name": "UMS",
+  "services": [
+    {
+      "id": 495,
+      "name": "Оплата",
+      "amountCharge": null,
+      "amountChargeMin": 1000,
+      "amountChargeMax": 500000,
+      "amountWithdraw": null,
+      "amountWithdrawMin": 10,
+      "amountWithdrawMax": 5000,
+      "type": "PAYMENT",
+      "rate": 100,
+      "percentBonus": 0.5,
+      "amountField": "amount",
+      "fields": [
+        {
+          "id": 994,
+          "label": "Номер телефона",
+          "name": "clientid",
+          "type": "PHONE",
+          "value": null,
+          "format": "[000]-[00]-[00]",
+          "hidden": false,
+          "prefixesJson": "[{\"value\":\"97\",\"label\":\"+998 97\"}]",
+          "validateRules": [
+            {
+              "rule": "required",
+              "message": "Это поле обязательно к заполнению.",
+              "required": "true"
+            },
+            {
+              "minLength": "7",
+              "rule": "minLength",
+              "message": "Это поле является обязательным, по крайней мере 7 символов."
+            },
+            {
+              "rule": "maxLength",
+              "message": "Это поле не может быть длинее, чем 9 символов.",
+              "maxLength": "9"
+            }
+          ],
+          "options": []
+        }
+      ]
+    }
+  ]
+}
