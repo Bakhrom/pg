@@ -9,27 +9,27 @@
       "percentBonus": 0.5,
       "disableBonusUsage": false,
       "withdrawCurrency": {
-        "label": "Yechib olinadigan miqdor"
+        "label": "Yechib olinadigan miqdor",
         "currency": "PG",
-        "min": 10.0,
-        "max": 5000.0,
+        "min": 10,
+        "max": 5000,
         "isFixed": false,
         "isSelected": true,
         "amount": null,
         "exchangeRate": 0.0082,
-        "exchangeRounding": -25.0
+        "exchangeRounding": -25
       },
       "chargeCurrency": {
-        "label": "To'ldiriladigan miqdor"
+        "label": "To'ldiriladigan miqdor",
         "currency": "UZS",
-        "min": 500.0,
-        "max": 500000.0,
+        "min": 500,
+        "max": 500000,
         "isFixed": false,
         "isSelected": false,
         "amount": null,
         "exchangeRate": 120.38485,
-        "exchangeRounding": 5.0
-      }
+        "exchangeRounding": 5
+      },
       "fields": [
         {
           "id": 994,
