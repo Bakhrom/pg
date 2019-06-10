@@ -16,7 +16,7 @@
         "isFixed": false,
         "isSelected": true,
         "amount": null,
-        "exchangeRate": 0.0082,
+        "exchangeRate": 120.38485,
         "exchangeRounding": -25
       },
       "chargeCurrency": {
@@ -27,7 +27,7 @@
         "isFixed": false,
         "isSelected": false,
         "amount": null,
-        "exchangeRate": 120.38485,
+        "exchangeRate": 0.0082,
         "exchangeRounding": 5
       },
       "fields": [
