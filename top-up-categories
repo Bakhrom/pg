@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "title": "Bank Cards",
+    "columns": 1,
+    "gridHeight": 72,
+    "services": [
+      {
+        "id": 1,
+        "name": "Bank Cards",
+        "logo": "https://images/bank_cards.png"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Online wallets (2% commission)",
+    "columns": 2,
+    "gridHeight": 64,
+    "services": [
+      {
+        "id": 2,
+        "name": "Qiwi",
+        "logo": "https://data-sample.github.io/pg/images/qiwi.png"
+      },
+      {
+        "id": 3,
+        "name": "Webmoney",
+        "logo": "https://data-sample.github.io/pg/images/webmoney.png"
+      },
+      {
+        "id": 4,
+        "name": "Samsung Pay",
+        "logo": "https://data-sample.github.io/pg/images/samsung_pay.png",
+        "colSpan": 2
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Internet banks",
+    "columns": 2,
+    "gridHeight": 64,
+    "services": [
+      {
+        "id": 5,
+        "name": "Alpha Bank",
+        "logo": "https://data-sample.github.io/pg/images/alpha_bank.png"
+      },
+      {
+        "id": 6,
+        "name": "Promsvyazbank",
+        "logo": "https://data-sample.github.io/pg/images/prom_svyaz_bank.png"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Mobile operators (2% commission)",
+    "columns": 3,
+    "gridHeight": 100,
+    "services": [
+      {
+        "id": 7,
+        "name": "Beeline",
+        "logo": "https://data-sample.github.io/pg/images/beeline.png"
+      },
+      {
+        "id": 8,
+        "name": "MTS",
+        "logo": "https://data-sample.github.io/pg/images/mts.png"
+      },
+      {
+        "id": 9,
+        "name": "Tele 2",
+        "logo": "https://data-sample.github.io/pg/images/tele2.png"
+      }
+    ]
+  }
+]
